@@ -37,4 +37,64 @@
         android:name="com.example.myapplication.ui.z3.zadanie3"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_zadanie3" />
+    <fragment
+        android:id="@+id/zadanie4"
+        android:name="com.example.myapplication.ui.z4.zadanie4"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_zadanie4" />
+    <fragment
+        android:id="@+id/zadanie5"
+        android:name="com.example.myapplication.ui.z5.zadanie5"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_zadanie5" />
+    <fragment
+        android:id="@+id/zadanie6"
+        android:name="com.example.myapplication.ui.z6.zadanie6"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_zadanie6" />
+    <fragment
+        android:id="@+id/zadanie7"
+        android:name="com.example.myapplication.ui.z7.zadanie7"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_zadanie7" />
+    <fragment
+        android:id="@+id/zadanie8"
+        android:name="com.example.myapplication.ui.z8.zadanie8"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_zadanie8" />
+    <fragment
+        android:id="@+id/zadanie9"
+        android:name="com.example.myapplication.ui.z9.zadanie9"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_zadanie9" />
+    <fragment
+        android:id="@+id/zadanie10"
+        android:name="com.example.myapplication.ui.z10.zadanie10"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_zadanie10" />
+    <fragment
+        android:id="@+id/zadanie11"
+        android:name="com.example.myapplication.ui.z11.zadanie11"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_zadanie11" />
+    <fragment
+        android:id="@+id/zadanie12"
+        android:name="com.example.myapplication.ui.z12.zadanie12"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_zadanie12" />
+    <fragment
+        android:id="@+id/zadanie13"
+        android:name="com.example.myapplication.ui.z13.zadanie13"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_zadanie13" />
+    <fragment
+        android:id="@+id/zadanie14"
+        android:name="com.example.myapplication.ui.z14.zadanie14"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_zadanie14" />
+    <fragment
+        android:id="@+id/zadanie15"
+        android:name="com.example.myapplication.ui.z15.zadanie15"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_zadanie15" />
 </navigation>
