@@ -5,16 +5,63 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_home"
+            android:id="@+id/zadanie1"
             android:icon="@drawable/ic_menu_camera"
-            android:title="@string/menu_home" />
+            android:title="zadanie1" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
+            android:id="@+id/zadanie2"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="zadanie2" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:id="@+id/zadanie3"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="zadanie3" />
+        <item
+            android:id="@+id/zadanie4"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="zadanie4" />
+        <item
+            android:id="@+id/zadanie5"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="zadanie5" />
+        <item
+            android:id="@+id/zadanie6"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="zadanie6" />        <item
+        android:id="@+id/zadanie7"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="zadanie7" />
+        <item
+            android:id="@+id/zadanie8"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="zadanie8" />
+        <item
+            android:id="@+id/zadanie9"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="zadanie9" />
+        <item
+            android:id="@+id/zadanie10"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="zadanie10" />
+        <item
+            android:id="@+id/zadanie11"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="zadanie11" />
+        <item
+            android:id="@+id/zadanie12"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="zadanie12" />
+        <item
+            android:id="@+id/zadanie13"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="zadanie13" />
+        <item
+            android:id="@+id/zadanie14"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="zadanie14" />
+        <item
+            android:id="@+id/zadanie15"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="zadanie15" />
     </group>
 </menu>

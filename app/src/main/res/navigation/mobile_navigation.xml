@@ -22,4 +22,19 @@
         android:name="com.example.myapplication.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/zadanie1"
+        android:name="com.example.myapplication.ui.z1.zadanie1"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_zadanie1" />
+    <fragment
+        android:id="@+id/zadanie2"
+        android:name="com.example.myapplication.ui.z2.zadanie2"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_zadanie2" />
+    <fragment
+        android:id="@+id/zadanie3"
+        android:name="com.example.myapplication.ui.z3.zadanie3"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_zadanie3" />
 </navigation>
